@@ -11,7 +11,7 @@ Installation:
 Tested on Ubuntu 20.04.4 LTS.
 
 
-
+### More info
 ﻿=== Kawaii Kitty Cat kitten Cursor Set ===
 
 By: ツ Mimi Destino ♡ (http://www.rw-designer.com/user/38152)
