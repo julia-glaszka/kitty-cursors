@@ -7,6 +7,7 @@ Installation:
 
 ![icons demo](./icons-preview.png)
 
+![icons gif demo](./demo.gif)
 
 Tested on Ubuntu 20.04.4 LTS.
 
